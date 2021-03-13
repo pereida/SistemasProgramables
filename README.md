@@ -22,4 +22,5 @@ Nombre del equipo: Desconocidos
 :low_brightness: [C1.2_Circuito Electronico Básico](https://github.com/pereida/SistemasProgramables/blob/main/Blog/C1.2_CircuitoElectronicoBasico_PereidaRomoGabrielaGiselle.md)
 
 
- 
+ Actividades en equipo:
+ :pushpin: [A1.2_Sensor Fotoresistivo](
