@@ -20,8 +20,8 @@ Nombre del equipo: Desconocidos
 :low_brightness: [C1.1_Electronica Basica y Elementos](https://github.com/pereida/SistemasProgramables/blob/main/Blog/C1.1_ElectronicaBasica_y_Elementos_PereidaRomoGabrielaGiselle.md)
 
 :low_brightness: [C1.2_Circuito Electronico Básico](https://github.com/pereida/SistemasProgramables/blob/main/Blog/C1.2_CircuitoElectronicoBasico_PereidaRomoGabrielaGiselle.md)
+:low_brightness: [C1.5_Tipos de sensores](https://github.com/pereida/SistemasProgramables/blob/main/Blog/C1.5_Tipos_De_%20Sensores_PereidaRomoGabrielaGiselle.md)
 
-
- Actividades en equipo:
+ ###  * Docs*
  
  :pushpin: [A1.2_Sensor Fotoresistivo](https://github.com/pereida/SistemasProgramables/blob/main/Blog/A1.2_Sensor_Fotoresistivo_PereidaRomoGabrielaGiselle.md)
