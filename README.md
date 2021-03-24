@@ -24,4 +24,4 @@ Nombre del equipo: Desconocidos
 
  ###  * Docs*
  
- :pushpin: [A1.2_Sensor Fotoresistivo](https://github.com/pereida/SistemasProgramables/blob/main/Blog/A1.2_Sensor_Fotoresistivo_PereidaRomoGabrielaGiselle.md)
+ :pushpin: [A1.2_Sensor Fotoresistivo](https://github.com/pereida/SistemasProgramables/blob/main/docs/A1.2_Sensor_Fotoresistivo_PereidaRomoGabrielaGiselle.md)
