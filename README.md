@@ -27,6 +27,7 @@ Nombre del equipo: Desconocidos
 
 
 ##Unidad 3
+
 :low_brightness: [C3.1_Arduino IDE Salida Digital](https://github.com/pereida/SistemasProgramables/blob/main/Blog/C3.1_ArduinoIDE_SalidaDigital_PereidaRomoGabrielaGiselle.md)
 
 :low_brightness: [C3.1_Arduino IDE Salida Digital](https://github.com/pereida/SistemasProgramables/blob/main/Blog/C3.2_ArduinoIDE_EntradaDigitalImpresionSerial_PereidaRomoGabrielaGiselle.md)
