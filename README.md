@@ -23,6 +23,13 @@ Nombre del equipo: Desconocidos
 
 :low_brightness: [C1.5_Tipos de sensores](https://github.com/pereida/SistemasProgramables/blob/main/Blog/C1.5_Tipos_De_%20Sensores_PereidaRomoGabrielaGiselle.md)
 
+##Unidad 2
+
+
+##Unidad 3
+:low_brightness: [C3.1_Arduino IDE Salida Digital](https://github.com/pereida/SistemasProgramables/blob/main/Blog/C3.1_ArduinoIDE_SalidaDigital_PereidaRomoGabrielaGiselle.md)
+:low_brightness: [C3.1_Arduino IDE Salida Digital](https://github.com/pereida/SistemasProgramables/blob/main/Blog/C3.2_ArduinoIDE_EntradaDigitalImpresionSerial_PereidaRomoGabrielaGiselle.md)
+
  ###  * Docs*
  
  :pushpin: [A1.2_Sensor Fotoresistivo](https://github.com/pereida/SistemasProgramables/blob/main/docs/A1.2_Sensor_Fotoresistivo_PereidaRomoGabrielaGiselle.md)
