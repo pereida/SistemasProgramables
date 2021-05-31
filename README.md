@@ -30,8 +30,17 @@ Nombre del equipo: Desconocidos
 
 :low_brightness: [C3.1_Arduino IDE Salida Digital](https://github.com/pereida/SistemasProgramables/blob/main/Blog/C3.1_ArduinoIDE_SalidaDigital_PereidaRomoGabrielaGiselle.md)
 
-:low_brightness: [C3.1_Arduino IDE Salida Digital](https://github.com/pereida/SistemasProgramables/blob/main/Blog/C3.2_ArduinoIDE_EntradaDigitalImpresionSerial_PereidaRomoGabrielaGiselle.md)
+:low_brightness: [C3.2_Arduino IDE Entrada Digital Impresion Serial](https://github.com/pereida/SistemasProgramables/blob/main/Blog/C3.2_ArduinoIDE_EntradaDigitalImpresionSerial_PereidaRomoGabrielaGiselle.md)
+
+:low_brightness: [C3.3_Arduino IDE Entrada Analiga Funcion Serial](https://github.com/pereida/SistemasProgramables/blob/main/Blog/C3.2_ArduinoIDE_EntradaDigitalImpresionSerial_PereidaRomoGabrielaGiselle.md)
+
+:low_brightness: [C3.4 Entradas analógica y salida digital]()
+
 
  ###  * Docs*
  
  :pushpin: [A1.2_Sensor Fotoresistivo](https://github.com/pereida/SistemasProgramables/blob/main/docs/A1.2_Sensor_Fotoresistivo_PereidaRomoGabrielaGiselle.md)
+
+
+
+:pushpin: [A3.1 Ardnuio Sensor Ultrasonico](https://github.com/pereida/SistemasProgramables/blob/main/docs/A3.1_GabrielaPereida_LosDesconocidos.md)
