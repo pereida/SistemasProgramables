@@ -44,3 +44,6 @@ Nombre del equipo: Desconocidos
 
 
 :pushpin: [A3.1 Arduino Sensor Ultrasonico](https://github.com/pereida/SistemasProgramables/blob/main/docs/A3.1_GabrielaPereida_LosDesconocidos.md)
+
+
+:pushpin: [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](https://github.com/pereida/SistemasProgramables/blob/main/docs/A3.2_GabrielaPereida_LosDesconocidos.md)
