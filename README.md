@@ -49,3 +49,6 @@ Nombre del equipo: Desconocidos
 :pushpin: [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](https://github.com/pereida/SistemasProgramables/blob/main/docs/A3.2_GabrielaPereida_LosDesconocidos.md)
 
 :pushpin: [A4.1 Circuito de control para activar y desactivar un motor DC, utilizando NodeMCU ESP32 por medio de Bluetooth](https://github.com/pereida/SistemasProgramables/blob/main/docs/A4.1_GabrielaPereida_LosDesconocidos.md)
+
+:pushpin: [A4.2 Circuito sensor de iluminación y actuación de luz NodeMCU ESP32 por medio de Wi-Fi](https://github.com/pereida/SistemasProgramables/blob/main/docs/A4.2_GabrielaPereida_LosDesconocidos.md)
+
