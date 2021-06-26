@@ -52,3 +52,5 @@ Nombre del equipo: Desconocidos
 
 :pushpin: [A4.2 Circuito sensor de iluminación y actuación de luz NodeMCU ESP32 por medio de Wi-Fi](https://github.com/pereida/SistemasProgramables/blob/main/docs/A4.2_GabrielaPereida_LosDesconocidos.md)
 
+:pushpin: [A5.1 Actividad Final Identificación del color de un objeto](https://github.com/pereida/SistemasProgramables/blob/main/docs/A5.1_GabrielaPereida_LosDesconocidos.md)
+
